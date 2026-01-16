@@ -26,3 +26,24 @@
 - IBM Plex Mono (tipografía monoespaciada optimizada)
 
 ## 📦 Estructura del proyecto
+ascii-tool/
+├── index.html # Punto de entrada
+├── style.css # Estilos globales
+├── script.js # Lógica principal
+├── README.md # Este archivo
+└── LICENSE # Licencia MIT
+
+## 📬 Contacto
+
+¿Encontraste un bug o tienes una idea?  
+📧 **contacto@alejandromunoz.com.ar**  
+🌐 **[www.alejandromunoz.com.ar](https://www.alejandromunoz.com.ar)**
+
+## 📄 Licencia
+
+Este proyecto está bajo la licencia **MIT**.  
+Ver archivo [LICENSE](LICENSE) para más detalles.
+
+---
+
+© 2026 Alejandro Muñoz
